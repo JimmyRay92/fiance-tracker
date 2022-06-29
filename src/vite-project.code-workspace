@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\CA\\term3\\react\\vite-project"
+		},
+		{
+			"path": "..\\..\\..\\..\\The complete javascript course\\complete-javascript-course-master\\complete-javascript-course-master\\07-Pig-Game\\starter"
+		},
+		{
+			"path": "..\\..\\..\\..\\CA\\term3\\js\\callback"
+		},
+		{
+			"path": "..\\..\\..\\..\\CA\\term3\\js\\filter"
+		},
+		{
+			"path": "..\\..\\..\\..\\CA\\workbook"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starter"
+	}
+}
